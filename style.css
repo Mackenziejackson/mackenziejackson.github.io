@@ -1,29 +1,33 @@
 body    {
-   background-color:dodgerblue;
-   
+   background-color:rgb(210, 240, 238);
+   margin: 0;
 }
 
 H1   {
-      font-family: indie flower;
+   font-family: 'La Belle Aurore', cursive;
       font-size: 60px; 
-     color: darkred;
+     color: rgb(230, 112, 2);
 }
 
 
 ul   {
-   font-family: indie flower;
-   color: whitesmoke;
+   font-family: 'Shadows Into Light', cursive;
+   color: rgb(255, 208, 52);
 }
 
-ol   { font-family: 'Cookie', cursive;
+ol   { font-family: 'Crafty Girls', cursive;
 
 }
 
 h2 { font-size: 40px;
-font-family: 'Permanent Marker'; }
+   font-family: 'Crafty Girls', cursive; }
 
 
-
-i { font-family: 'Amatic SC', cursive;
+i { font-family: 'Shadows Into Light', cursive;
 font-size: 20px; 
+}
+
+
+
+
 
