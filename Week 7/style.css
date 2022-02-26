@@ -1,0 +1,53 @@
+body    {
+   background-color: rgb(224, 136, 43);
+   margin: 0;
+}
+
+H1   {
+   font-family: 'Praise', cursive;
+      font-size: 200px; 
+     color: rgb(224, 136, 43);
+     grid-area: header;
+     border: 5px  rgb(39, 178, 170);
+   width: 1800px;
+   height: 280px;
+   
+
+background-color:  rgb(39, 178, 170);
+}
+
+
+ul   {
+   font-family: 'Amatic SC', cursive;
+   color: whitesmoke;
+   font-size: 20px;
+   text-align: right;
+}
+
+ol   { font-family: 'Praise', cursive;
+   font-size: 45px;
+   color: whitesmoke;
+
+}
+
+h2 { font-size: 60px;
+   font-family: 'Merriweather', serif;
+   color: whitesmoke;
+}
+
+
+
+i { font-family: 'Shadows Into Light', cursive;
+font-size: 20px;
+color: whitesmoke;
+padding-top: 0px;
+
+}
+
+img {
+      width: 800px;
+     margin: center;
+}
+
+
+
