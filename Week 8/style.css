@@ -1,0 +1,110 @@
+body    {
+   background-color: rgb(240, 220, 187);
+   margin: 0;
+}
+
+H1   {
+  font-family: 'Praise', cursive;
+      font-size: 100px; 
+      width: 100px;
+     color: rgb(240, 220, 187);
+     grid-area: header;
+     border: 10px  rgb(107, 14, 5);
+   width: 100%;
+   height: 120px;
+background-color:  rgb(107, 14, 5);
+}
+
+
+ul   {
+
+ font-family: 'Amatic SC', cursive;
+font-size: 25px;
+color: black;
+padding: 20px;
+border: 20px  rgb(222, 130, 2);
+   width: 60%;
+   height: 200px;
+background-color:  rgb(222, 130, 2);
+float: left;
+}
+
+
+ol   { 
+  font-family: 'Amatic SC', cursive;
+   font-size: 30px;
+   color: black;
+   text-align: left;
+  margin-right: 10px;
+  margin-left: 40px;
+  margin-bottom: 60px;
+
+}
+
+.directions { 
+   font-size: 70px;
+ font-family: 'Praise', cursive;
+   color: rgb(107, 14, 5);
+    text-align: left;    
+ margin-right: 80px;
+  margin-left: 50px
+ 
+}
+
+
+
+i { 
+   font-family: 'Amatic SC', cursive;
+font-size: 20px;
+color: black;
+
+
+
+}
+
+img {
+      width: 700px;
+    
+}
+
+.ing {
+        font-family: 'Amatic SC', cursive;
+font-size: 30px;
+color: black;
+padding: 20px;
+border: 10px  rgb(222, 130, 2);
+   width: 50%;
+   height: 250px;
+background-color:  rgb(222, 130, 2);
+ margin-top: 70px;
+ margin-bottom: 70px;
+ margin-right: 50px;
+ float: right;
+
+
+}
+
+.dir {
+       font-family: 'Amatic SC', cursive;
+font-size: 25px;
+color: black;
+padding: 20px;
+border: 10px  rgb(222, 130, 2);
+   width: 50%;
+   height: 280px;
+background-color:  rgb(222, 130, 2);
+ margin-right: 30px;
+
+}
+
+.ingredients{ 
+  font-size: 60px;
+ font-family: 'Praise', cursive;
+   color: rgb(107, 14, 5);
+   text-align: right;
+  margin-right: 50px;
+ 
+}
+
+
+
