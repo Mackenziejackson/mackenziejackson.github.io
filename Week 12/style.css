@@ -1,0 +1,125 @@
+/*Pattern Library Document Styles*/
+header, section{
+	margin:auto;
+	width:50%;
+	font-family: 'Merriweather', serif;
+}
+
+section{
+	border-bottom:1px solid gray;
+	padding:50px;
+}
+
+body{font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	}
+
+
+a{
+	color:slategrey;
+	padding:2px 4px;
+
+}
+
+a:hover{
+	color:white;
+	background-color: rgb(88, 18, 135);
+}
+
+#typography{
+	padding-top:0;
+}
+
+#navigation{
+	border-bottom:0;
+}
+
+/*Typography Styles*/
+#title{font-size: 4em;}
+
+.section-head{
+	border-bottom:3px solid grey;
+	color:rgb(67, 20, 74);
+}
+
+
+h2{
+font-size: 2.369rem;
+font-weight:400;
+font-family: 'Dancing Script', cursive;
+}
+
+h3{
+font-size:1.777rem;
+font-weight: 400;
+font-family: 'Dancing Script', cursive;
+}
+
+h4{
+font-size: 1.333rem;
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+
+h5{
+font-size: 1.2rem;
+font-family: 'Dancing Script', cursive;
+}
+
+/*Color Palette*/
+.palette{
+	display: inline-block;
+	width: 18.5%;
+	background-color: gray;
+	color:white;
+	text-align: center;
+	padding:10% 0;
+	margin-right:3px;
+	margin-bottom: 10px;
+}
+
+#color1{
+	background-color: rgb(199, 159, 224);
+}
+
+#color2{
+	background-color: rgb(196, 95, 237);
+}
+
+#color3{
+	background-color: rgb(89, 2, 161);
+}
+
+#color4{
+	background-color: rgb(88, 18, 135);
+}
+
+#color5{
+	background-color: rgb(67, 20, 74);
+	
+}
+
+#color6{
+	background-color: whitesmoke;
+	color:white;
+}
+
+
+
+/*Navigation Styles*/
+
+button{
+	background-color: rgb(196, 95, 237);
+	color:white;
+	padding:15px;
+	border:none;
+	border-radius: 5px;
+	font-size: 1rem;
+	transition: background-color 1s;
+}
+
+button:hover{
+	background-color: rgb(89, 2, 161);
+}
+
+/*Additional Styles—add if necessary*/
